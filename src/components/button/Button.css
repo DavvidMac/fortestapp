@@ -1,0 +1,12 @@
+.save{
+    background-color: rgb(96, 221, 58);
+    border-radius: 10px;
+    height:40px;
+    width: 500px;
+}
+.alert{
+    background-color: rgb(211, 169, 33);
+}
+.delete{
+    background-color: rgb(211, 45, 33);
+}
